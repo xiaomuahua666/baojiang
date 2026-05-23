@@ -25,7 +25,7 @@
 [https://github.com/itorr/patina](https://github.com/itorr/patina)
 
 ## 打赏
-![打赏二维码](https://lab.magiconch.com/nbnhhsh/sponsor.png)
+![打赏二维码](https://pan.mahua.uk/f/1GfP/zfb.jpg)
 
 ## 参考
 
