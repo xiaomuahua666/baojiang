@@ -225,6 +225,43 @@
         </div>
     </footer>
 
+    <div class="tip-box">
+        <h3>相关项目</h3>
+        <ul>
+            <li>
+                <h4>「 蒸 気 機 」虚拟信号蒸汽波风格化影像后期工具</h4>
+                <a href="https://lab.magiconch.com/vaporwave/?from=patina" target="_blank">lab.magiconch.com/vaporwave</a>
+            </li>
+        </ul>
+    </div>
+    <div class="tip-box">
+        <h3>利用</h3>
+        <ul>
+            <li>
+                <h4>最像素 Zpix - 一个支持中日英文的像素字体</h4>
+                <a href="https://github.com/SolidZORO/zpix-pixel-font" target="_blank">github.com/SolidZORO/zpix-pixel-font</a>
+            </li>
+        </ul>
+    </div>
+    <div class="tip-box">
+        <h3>参考</h3>
+        <ul>
+            <li>
+                <h4>梗图生成器 - 所见即所得的梗图生成器、支持电子包浆等功能</h4>
+                <a href="http://x.magiconch.com/" target="_blank">x.magiconch.com</a>
+            </li>
+            <li>
+                <h4>JPEGreen Simulator</h4>
+                <a href="https://m13253.github.io/JPEGreen/" target="_blank">m13253.github.io/JPEGreen</a>
+            </li>
+            <li>
+                <h4>Use libjpeg-turbo for YUV->RGB conversion in jpeg encoder</h4>
+                <a href="https://github.com/google/skia/commit/c7d01d3e1d3621907c27b283fb7f8b6e177c629d" target="_blank">github.com/google/skia/commit/c7d01d3e1d3621907c27b283fb7f8b6e177c629d</a>
+            </li>
+        </ul>
+    </div>
+</div>
+
 <script src="https://cdn.jsdelivr.net/npm/vue@2.6.11/dist/vue.min.js"></script>
 <script src="patina-gif/lib/libgif.js"></script>
 <script src="patina-gif/lib/rubbable.js"></script>
