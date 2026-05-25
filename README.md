@@ -25,7 +25,9 @@
 [https://github.com/itorr/patina](https://github.com/itorr/patina)
 
 ## 打赏
-![打赏二维码](https://pan.mahua.uk/f/1GfP/zfb.jpg)
+<p align="center">
+  <img src="https://pan.mahua.uk/f/1GfP/zfb.jpg" width="180" />
+</p>
 
 ## 参考
 
