@@ -125,13 +125,9 @@ let defaultConfig = {
 };
 
 const userNamesText = `卜卜口
-拆家大主教
-HomeArchbishop
 _Home_Archbishop_
 _蒸_気_機_
 能不能好好说话
-神奇海螺_0000
-magiconch.com
 电脑玩家海螺
 电子包浆
 阿卡梦
@@ -204,7 +200,7 @@ const data = {
 	// src:'IMG_7076.JPG',
   // src: 'chiya.gif',
   // src: 'panda.gif',
-	downloadFileName:'[lab.magiconch.com][电子包浆].jpg',
+	downloadFileName:'[电子包浆].jpg',
 	output:null,
 	img:null,
 	direction:'vertical',
@@ -262,7 +258,7 @@ const app = new Vue({
 			this.config = _config
 		},
 		save(e){
-			this.downloadFileName = `[lab.magiconch.com][电子包浆]-${+Date.now()}.jpg`;
+			this.downloadFileName = `[电子包浆]-${+Date.now()}.jpg`;
 			// a.click();
 		}
 	},
