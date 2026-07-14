@@ -14,10 +14,6 @@
 水印用户名可自定义
 可选择原尺寸输出图片
 
-
-## 项目地址
-[https://oldpic.mahua.uk/](https://oldpic.mahua.uk/)
-
 ## 为什么做
 图片效果化处理摸索中
 
@@ -30,9 +26,6 @@
 </p>
 
 ## 参考
-
-梗图生成器 - 所见即所得的梗图生成器、支持电子包浆等功能
-http://x.magiconch.com/
 
 JPEGreen Simulator
 https://m13253.github.io/JPEGreen/

@@ -1,13 +1,3 @@
-/*!
- * Patina.js 
- * @itorr <https://lab.magiconch.com/>
- * 2022-03-31
- */
-
-
-
-
-
 let randRange =(a,b)=>Math.round(Math.random()*(b-a)+a);
 let randRange2 = randRange;
 
